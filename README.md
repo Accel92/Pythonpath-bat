@@ -1,4 +1,5 @@
 cmd path to work on (no need for constant change dir)
 
-example : cmd /k cd /d"C:\Users\DamianM\Desktop\Shazam>"
-          save as .bat
+example : cmd /k cd /d"C:\Somefile\Somesubfile>"
+          
+create notepad, save as .bat
